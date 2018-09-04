@@ -148,14 +148,14 @@ class Employees extends Component {
     return (
       <div id="showUsers" className="container">
         <button
-          className="btn btn-primary btn-lg float-left mb-2"
+          className="btn btn-primary btn-lg float-left mb-2 mt-2"
           onClick={this.enableUserAdd}
         >
           Add User
         </button>
 
         <button
-          className="btn btn-danger btn-lg float-right mb-2"
+          className="btn btn-danger btn-lg float-right mb-2 mt-2"
           onClick={this.logout}
         >
           Logout
