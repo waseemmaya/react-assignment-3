@@ -1,0 +1,16 @@
+.myButton {
+  margin-left: 5px;
+  width: 80px;
+}
+
+.addTask {
+  width: 80px;
+}
+
+#cancel {
+  margin-left: 2px;
+}
+
+b {
+  float: left;
+}
